@@ -22,7 +22,9 @@
 Каких только расчётов он не видел.  
 И где только не побывал. Даже на ЧАЭС.  
 Он в рабочем состоянии до сих пор.  
-  
+
+---
+
 Прадедушка  
   
 ![Прадедушка](Foto/%D0%9F%D1%80%D0%B0%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%BA%D0%B0-1990.jpg)  
@@ -59,6 +61,24 @@
   
 ![](Foto/L2_Rev1.02.png)  
   
+---
+  
+## Клавиатура
+  
+Клавиатуру можно использовать от Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM)  
+  
+![](Foto/L2-40Key-2.jpg)  
+  
+---
+  
+## Корпус  
+  
+А корпус подойдёт от [PentoGraf-Pentagon-1024k](https://github.com/Alex-2-Graf/PentoGraf-Pentagon-1024k)  
+  
+![](Foto/19-finished.jpg)  
+  
+---
+  
 ## Сборка  
   
 Как правило, сборка и наладка проблем не вызывают.  
@@ -94,13 +114,19 @@ JP4 замыкается в случае установки двух ПЗУ 2764
   
 ![](Jumpers/CAS1.jpg)  
   
+---
+  
 ## ПЗУ  
   
 Выбор ПЗУ описан [тут](ROM).  
   
+---
+  
 ## VGA  
   
 Настройка конвертера [тут](VGA).  
+  
+---
   
 ## Рекомендуемые аксессуары  
   
@@ -109,6 +135,8 @@ JP4 замыкается в случае установки двух ПЗУ 2764
 * [Memory Expansions and AY/TS](https://github.com/Alex-2-Graf/Leningrad2-Upgrade-Kit)
 * [LGT-Turbo-Sound-emulator](https://github.com/Alex-2-Graf/LGT-Turbo-Sound-emulator)
 * [ZX-EQ Nemo-bus Edition](https://github.com/Alex-2-Graf/ZX-EQ)
+   
+---
    
 ## Авторы и благодарности  
   
